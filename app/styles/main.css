@@ -7,12 +7,11 @@ body {
 
 
 a:hover {
-	color: white;
+	color: #AA3A3A;
 }
 
 hr {
 	margin: 10px;
-	color: #AA3A3A;
 }
 
 .name {
