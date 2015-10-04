@@ -15,9 +15,14 @@ hr {
 }
 
 .name {
+	color: white;
 	font-family: 'Amatic SC';
 	font-size: 5em;
 	text-align: center;
+}
+
+.name a {
+	color: white;
 }
 
 .stuff {
