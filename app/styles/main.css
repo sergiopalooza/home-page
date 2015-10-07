@@ -14,18 +14,15 @@ hr {
 	margin: 10px;
 }
 
-.name {
+.head a{
 	color: white;
 	font-family: 'Amatic SC';
 	font-size: 5em;
 	text-align: center;
 }
 
-.name a {
-	color: white;
-}
 
-.stuff {
+.links {
 	font-size: 1.875em;
 	font-family: 'Amatic SC';
 }
@@ -34,4 +31,17 @@ hr {
 	font-family: 'Raleway';
 	font-size: 1.125em;
 	margin: 1.5em;
+}
+
+.thumbnail {
+	margin: 10px;
+}
+
+.projects {
+	font-size: 3.5em;	
+	font-family: 'Amatic SC';
+}
+
+.bbb {
+	font-size: 24px;
 }
